@@ -1,5 +1,5 @@
 {
-  "name": "merge-img",
+  "name": "@zimnovich/merge-img",
   "version": "2.1.2",
   "description": "Merge multiple images into a single image",
   "author": "Plusb Preco <plusb21@gmail.com>",
