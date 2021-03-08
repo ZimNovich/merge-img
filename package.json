@@ -33,7 +33,7 @@
   ],
   "dependencies": {
     "is-plain-obj": "^1.1.0",
-    "jimp": "^0.16.0"
+    "jimp": "^0.3.5"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
